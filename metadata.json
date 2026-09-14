@@ -1,0 +1,6 @@
+{
+  "name": "Łowisko Jakubek",
+  "description": "Kameralne łowisko specjalne o powierzchni 3,12 ha w sercu lasów Kociewia w Wilczych Błotach. Tylko 3 stanowiska, okazy lina powyżej 50 cm, zasada no-kill.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
